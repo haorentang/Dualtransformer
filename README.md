@@ -1,2 +1,2 @@
 # Dualtransformer
-An implementation of Dualtransfoermer
+An implementation of Dual Transformer
